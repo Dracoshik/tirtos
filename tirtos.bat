@@ -37,6 +37,6 @@ call .\pdk_am335x_1_0_9\packages\pdksetupenv.bat "E:\uC-Soft\TI\TIRTOS\pdk_am335
 
 gmake clean
 
-pause
+REM pause
 
 gmake all
