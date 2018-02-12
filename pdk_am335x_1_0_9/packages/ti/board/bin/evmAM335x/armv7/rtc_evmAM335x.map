@@ -1,0 +1,1416 @@
+Archive member included to satisfy reference by file (symbol)
+
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/rtc_test.o (Board_init)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_lld_init.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x.oa8fg) (Board_uartStdioInit)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_pinmux.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x.oa8fg) (Board_pinmuxConfig)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_pinmux.oa8fg) (CHIPDBBaseAddress)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_prcm.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x.oa8fg) (PRCMModuleEnable)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg) (CHIPDBSpeedGradeProcID)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_baseaddr.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg) (gChipDBBaseAddrTable)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg) (gChipDBInterruptTables)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_pinmux.oa8fg) (gGpevmPinmuxData)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_info.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_pinmux.oa8fg) (Board_getProfileInfo)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_lld_init.oa8fg) (UART_stdioInit)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_ascii_utils.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg) (UART_ASCIIUtils_charToDigit)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg) (UART_close)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg) (UART_config)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg) (UART_FxnTable_v1)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_info.oa8fg) (I2C_close)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_lld_init.oa8fg) (I2C_config)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg) (I2C_v1_FxnTable)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg) (I2CMasterInitExpClk)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg) (UARTOperatingModeSelect)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg) (HwiP_disable)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg) (_DebugP_assert)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg) (SemaphoreP_create)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(RegisterIntr_nonos.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg) (Osal_RegisterInterrupt_initParams)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg) (OsalArch_enableInterrupt)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(delay.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg) (Osal_delay)
+/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(delay.oa8fg) (TIMEREnable)
+e:/uc-soft/ti/tirtos/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/hard\libgcc.a(_udivsi3.o)
+                              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg) (__aeabi_uidiv)
+e:/uc-soft/ti/tirtos/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/hard\libgcc.a(_divsi3.o)
+                              (__aeabi_idiv)
+e:/uc-soft/ti/tirtos/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/hard\libgcc.a(_dvmd_tls.o)
+                              e:/uc-soft/ti/tirtos/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/hard\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+
+Allocating common symbols
+Common symbol       size              file
+
+UartObjects         0x2a0             /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+Board_obj           0x4               /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x.oa8fg)
+uart_stdio          0x8               /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+gRtcHandle          0x4               /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/rtc_test.o
+gRtcObj             0x8               /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/rtc_test.o
+I2cObjects          0xd8              /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/diag_entry.ao
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/diag_entry.ao
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/intc.o
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/cpu.o
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/cpu.o
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/diag_common_cfg.o
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/diag_common_cfg.o
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x.oa8fg)
+ .text.Board_DDR3Init
+                0x00000000        0x8 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x.oa8fg)
+ .text.Board_PLLInit
+                0x00000000        0x8 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x.oa8fg)
+ .data.eepromData
+                0x00000000        0xa /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_lld_init.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_lld_init.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_lld_init.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_pinmux.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_pinmux.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_pinmux.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .text.CHIPDBEnable
+                0x00000000       0x14 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .text.CHIPDBDisable
+                0x00000000       0x14 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .text.CHIPDBModuleMaxInstanceNumber
+                0x00000000       0x24 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .text.CHIPDBIsResourcePresent
+                0x00000000       0x9c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .text.CHIPDBResourceMaxFrequency
+                0x00000000       0x3c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .text.CHIPDBMaxJunctionTemperature
+                0x00000000        0x8 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .text.CHIPDBMinJunctionTemperature
+                0x00000000        0x8 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .text.CHIPDBPackageType
+                0x00000000        0x8 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .text.CHIPDBDeviceRevision
+                0x00000000       0x34 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .text.CHIPDBSecurityLevel
+                0x00000000       0x2c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .text.ChipDBInterruptNum
+                0x00000000       0x48 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .data.gChipDBEnabled
+                0x00000000        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_prcm.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_prcm.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_prcm.oa8fg)
+ .text.enableModule
+                0x00000000       0x50 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_prcm.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb.oa8fg)
+ .text.CHIPDBSpeedGradeProcID
+                0x00000000        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb.oa8fg)
+ .text.CHIPDBIsSecureModule
+                0x00000000       0x2c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb.oa8fg)
+ .rodata.gChipDBResourceTable
+                0x00000000       0x18 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb.oa8fg)
+ .rodata.gChipDBSpeedGrade
+                0x00000000        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_baseaddr.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_baseaddr.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_baseaddr.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .data.gChipDBInterruptTables
+                0x00000000      0x170 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .rodata.gChipDBDMTIMER0InterruptMap
+                0x00000000        0x2 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .rodata.gChipDBDMTIMER2InterruptMap
+                0x00000000        0x2 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .rodata.gChipDBDMTIMER3InterruptMap
+                0x00000000        0x2 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .rodata.gChipDBDMTIMER4InterruptMap
+                0x00000000        0x2 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .rodata.gChipDBDMTIMER5InterruptMap
+                0x00000000        0x2 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .rodata.gChipDBDMTIMER6InterruptMap
+                0x00000000        0x2 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .rodata.gChipDBDMTIMER7InterruptMap
+                0x00000000        0x2 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .rodata.gChipDBUSB0InterruptMap
+                0x00000000        0x8 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .rodata.gChipDBUSB1InterruptMap
+                0x00000000        0x8 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .comment       0x00000000       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .ARM.attributes
+                0x00000000       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_info.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_info.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_info.oa8fg)
+ .text.Board_getIDInfo
+                0x00000000      0x178 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_info.oa8fg)
+ .text.Board_writeIDInfo
+                0x00000000      0x134 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_info.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_stdioInit2
+                0x00000000       0x7c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_puts
+                0x00000000       0x74 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_gets
+                0x00000000       0x94 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_putNum
+                0x00000000       0xb0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_putHexNum
+                0x00000000       0xb4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_getNum
+                0x00000000       0x90 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_getHexNum
+                0x00000000      0x178 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_putc
+                0x00000000        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_getc
+                0x00000000       0x34 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_scanFmt
+                0x00000000      0x6b0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_stdioDeInit
+                0x00000000       0x30 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_ascii_utils.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_ascii_utils.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_ascii_utils.oa8fg)
+ .text.UART_ASCIIUtils_charToDigit
+                0x00000000       0x78 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_ascii_utils.oa8fg)
+ .comment       0x00000000       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_ascii_utils.oa8fg)
+ .ARM.attributes
+                0x00000000       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_ascii_utils.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .text.UART_close
+                0x00000000        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .text.UART_control
+                0x00000000        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .text.UART_read
+                0x00000000        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .text.UART_read2
+                0x00000000        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .text.UART_readPolling
+                0x00000000        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .text.UART_readCancel
+                0x00000000        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .text.UART_write2
+                0x00000000        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .text.UART_writeCancel
+                0x00000000        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .text.UART_transactionInit
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .rodata.UART_defaultTransaction
+                0x00000000       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+ .text.UART_socGetInitCfg
+                0x00000000       0x50 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+ .text.UART_socSetInitCfg
+                0x00000000       0x54 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+ .text.I2C_control
+                0x00000000       0x50 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+ .text.I2C_transactionInit
+                0x00000000       0x2c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+ .rodata.I2C_defaultParams
+                0x00000000       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+ .rodata.I2C_defaultTransaction
+                0x00000000       0x28 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+ .text.I2C_socGetInitCfg
+                0x00000000       0x4c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+ .text.I2C_socSetInitCfg
+                0x00000000       0x4c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CMasterBusy
+                0x00000000       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CMasterErr
+                0x00000000       0x14 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CSlaveIntStatus
+                0x00000000        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CMasterIntStatusEx
+                0x00000000       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CSlaveIntStatusEx
+                0x00000000       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CSlaveIntRawStatusEx
+                0x00000000       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CMasterIntRawStatusClearEx
+                0x00000000        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CSlaveIntRawStatusClearEx
+                0x00000000        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CMasterSlaveAddrGet
+                0x00000000       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CFIFOThresholdConfig
+                0x00000000       0x28 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CDMATxEventEnable
+                0x00000000       0x28 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CDMARxEventEnable
+                0x00000000       0x28 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CDMATxEventDisable
+                0x00000000       0x20 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CDMARxEventDisable
+                0x00000000       0x20 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CActiveOwnAddressGet
+                0x00000000       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CClockBlockingControl
+                0x00000000       0x6c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CAutoIdleEnable
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CGlobalWakeUpEnable
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CGlobalWakeUpDisable
+                0x00000000       0x14 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CIdleModeSelect
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CClockActivitySelect
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CWakeUpEnable
+                0x00000000       0x60 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CWakeUpDisable
+                0x00000000       0x60 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CSlaveDataPut
+                0x00000000        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CFlushFifo
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTDivisorLatchEnable
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTRegConfigModeEnable
+                0x00000000       0x54 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTRegConfModeRestore
+                0x00000000        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTParityModeSet
+                0x00000000       0x20 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTParityModeGet
+                0x00000000       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTDMAEnable
+                0x00000000       0x34 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTDMADisable
+                0x00000000       0x2c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTFIFOCtrlRegWrite
+                0x00000000       0x98 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTEnhanFuncEnable
+                0x00000000       0x44 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTEnhanFuncBitValRestore
+                0x00000000       0x38 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTSubConfigXOFFModeEn
+                0x00000000       0xac /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTSubConfigMSRSPRModeEn
+                0x00000000        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTSpaceAvail
+                0x00000000       0x3c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTCharsAvail
+                0x00000000       0x34 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTCharGet
+                0x00000000       0x48 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTCharGetTimeout
+                0x00000000       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTFIFOCharGet
+                0x00000000       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTFIFOWrite
+                0x00000000       0x28 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTRxErrorGet
+                0x00000000       0x34 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTIntPendingStatusGet
+                0x00000000       0x34 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTFIFOEnableStatusGet
+                0x00000000       0x3c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTAutoRTSAutoCTSControl
+                0x00000000       0x50 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTSpecialCharDetectControl
+                0x00000000       0x38 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTSoftwareFlowCtrlOptSet
+                0x00000000       0x38 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTPulseShapingControl
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTModuleReset
+                0x00000000       0x30 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTIdleModeConfigure
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTWakeUpControl
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTAutoIdleModeControl
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTFlowCtrlTrigLvlConfig
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTXON1XOFF1ValProgram
+                0x00000000       0x14 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTXON2XOFF2ValProgram
+                0x00000000       0x14 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTXONAnyFeatureControl
+                0x00000000       0x74 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTModemControlSet
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTModemControlClear
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTModemControlReset
+                0x00000000       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTModemStatusGet
+                0x00000000       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTModemStatusChangeCheck
+                0x00000000       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTResumeOperation
+                0x00000000       0x28 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTWakeUpEventsEnable
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTWakeUpEventsDisable
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTFIFOTrigLvlGranControl
+                0x00000000       0x34 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTDSRInterruptControl
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTTxEmptyIntControl
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTRXCTSDSRWakeUpConfigure
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTRXCTSDSRTransitionStatusGet
+                0x00000000       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTDMACounterResetControl
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTTxFIFOLevelGet
+                0x00000000        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTRxFIFOLevelGet
+                0x00000000        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTAutobaudParityGet
+                0x00000000       0x2c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTAutobaudWordLenGet
+                0x00000000       0x2c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTAutobaudSpeedGet
+                0x00000000       0x2c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTScratchPadRegWrite
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTScratchPadRegRead
+                0x00000000       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTModuleVersionNumberGet
+                0x00000000       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTTxDMAThresholdControl
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTTxDMAThresholdValConfig
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTFIFOLevelSet
+                0x00000000       0x14 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTModemControlGet
+                0x00000000       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+ .text.HwiP_clearInterrupt
+                0x00000000        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+ .text.HwiP_disableInterrupt
+                0x00000000        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+ .text.HwiP_Params_init
+                0x00000000       0x24 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+ .text.Osal_setHwAttrs
+                0x00000000       0x64 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+ .text.Osal_getHwAttrs
+                0x00000000       0x30 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+ .text.Osal_getStaticMemStatus
+                0x00000000       0xa8 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+ .bss.gOsalTimerAllocCnt
+                0x00000000        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+ .bss.gOsalTimerPeak
+                0x00000000        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(RegisterIntr_nonos.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(RegisterIntr_nonos.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(RegisterIntr_nonos.oa8fg)
+ .text.Osal_ClearInterrupt
+                0x00000000        0x8 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(RegisterIntr_nonos.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .text.CONSOLEUtilsPuts
+                0x00000000        0x8 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .text.OsalArch_disableInterrupt
+                0x00000000        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .text.OsalArch_clearInterrupt
+                0x00000000        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(delay.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(delay.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(delay.oa8fg)
+ .text          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .data          0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .bss           0x00000000        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERPreScalerClkEnable
+                0x00000000       0x84 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERPreScalerClkDisable
+                0x00000000       0x40 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERReloadGet
+                0x00000000        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERGPOConfigure
+                0x00000000       0x84 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERCompareSet
+                0x00000000       0x38 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERCompareGet
+                0x00000000        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERIntRawStatusSet
+                0x00000000       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERIntRawStatusGet
+                0x00000000        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERIntStatusGet
+                0x00000000        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERIntStatusClear
+                0x00000000       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERIntEnable
+                0x00000000       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERIntDisable
+                0x00000000       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERWakeEnable
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERWakeDisable
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERTriggerSet
+                0x00000000       0x3c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERIntEnableGet
+                0x00000000        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERResetConfigure
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERReset
+                0x00000000       0x30 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERContextSave
+                0x00000000       0x6c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERContextRestore
+                0x00000000       0xf0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERPostedModeConfig
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERReadModeConfig
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERWritePostedStatusGet
+                0x00000000        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERIdleModeConfigure
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMEREmuModeConfigure
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERTPIRSet
+                0x00000000        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERTNIRSet
+                0x00000000        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERTCVRSet
+                0x00000000        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERTOCRSet
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERTOWRGet
+                0x00000000       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERTOWRSet
+                0x00000000       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .data          0x00000000        0x0 e:/uc-soft/ti/tirtos/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/hard\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 e:/uc-soft/ti/tirtos/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/hard\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 e:/uc-soft/ti/tirtos/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/hard\libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 e:/uc-soft/ti/tirtos/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/hard\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 e:/uc-soft/ti/tirtos/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/hard\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 e:/uc-soft/ti/tirtos/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/hard\libgcc.a(_dvmd_tls.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+DDR0             0x80000000         0x40000000
+DDR0_MEMTEST     0x80000000         0x00010000
+DIAG_MEM         0x402f0400         0x0001fc00         xrwl
+SBL_MEM          0x402f0400         0x0001fc00         xrwl
+OCMC_RAM         0x40300000         0x00010000         xrwl
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/rtc_test.o
+LOAD /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/diag_entry.ao
+LOAD /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/intc.o
+LOAD /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/cpu.o
+LOAD /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/diag_common_cfg.o
+
+.startcode      0x80000000      0x154
+                0x80000000                . = ALIGN (0x4)
+ *diag_entry.ao(.text)
+ .text          0x80000000      0x154 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/diag_entry.ao
+                0x80000000                Entry
+                0x800000bc                SVC_Handler
+                0x800000e4                IRQHandler
+                0x80000124                FIQHandler
+                0x80000128                AbortHandler
+                0x80000128                UndefInstHandler
+
+.text           0x80000154     0x76c0
+                0x80000154                . = ALIGN (0x4)
+ *(.text*)
+ .text          0x80000154      0x298 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/rtc_test.o
+                0x800001a4                RtcTimerCallback
+                0x800001b8                RtcDisplayDateTime
+ .text.startup  0x800003ec      0x7ec /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/rtc_test.o
+                0x800003ec                main
+ .text          0x80000bd8      0x2bc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/intc.o
+                0x80000bf0                INTCInit
+                0x80000c70                INTCConfigIntr
+                0x80000d04                INTCEnableIntr
+                0x80000d3c                INTCDisableIntr
+                0x80000d74                INTCEnableCpuIntr
+                0x80000d9c                INTCDisableCpuIntr
+                0x80000da0                INTCClearIntr
+                0x80000dd0                INTCTriggerSWIntr
+                0x80000dfc                INTCSaveContext
+                0x80000e04                INTCRestoreContext
+                0x80000e0c                INTCCommonIntrHandler
+ .text          0x80000e94       0x90 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/cpu.o
+                0x80000e94                CPUSwitchToPrivilegedMode
+                0x80000e9c                CPUSwitchToUserMode
+                0x80000eb0                CPUAbortHandler
+                0x80000eb4                CPUIntrStatus
+                0x80000ec0                CPUIntrDisable
+                0x80000ef8                CPUIntrEnable
+ .text          0x80000f24       0x6c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/diag_common_cfg.o
+                0x80000f24                VectorBaseAddrSet
+                0x80000f34                CopyVectorTable
+                0x80000f78                start_boot
+                0x80000f88                DIAG_init
+ .text.Board_moduleClockInit
+                0x80000f90      0x1d8 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x.oa8fg)
+                0x80000f90                Board_moduleClockInit
+ .text.Board_init
+                0x80001168       0x58 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x.oa8fg)
+                0x80001168                Board_init
+ .text.Board_uartStdioInit
+                0x800011c0       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_lld_init.oa8fg)
+                0x800011c0                Board_uartStdioInit
+ .text.Board_internalInitI2C
+                0x800011dc       0x74 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_lld_init.oa8fg)
+                0x800011dc                Board_internalInitI2C
+ .text.PINMUXModuleConfig
+                0x80001250      0x10c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_pinmux.oa8fg)
+                0x80001250                PINMUXModuleConfig
+ .text.Board_pinmuxConfig
+                0x8000135c      0x15c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_pinmux.oa8fg)
+                0x8000135c                Board_pinmuxConfig
+ .text.CHIPDBBaseAddress
+                0x800014b8       0x38 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+                0x800014b8                CHIPDBBaseAddress
+ .text.PRCMModuleEnable
+                0x800014f0     0x11ec /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_prcm.oa8fg)
+                0x800014f0                PRCMModuleEnable
+ .text.Board_getProfileInfo
+                0x800026dc       0xd0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_info.oa8fg)
+                0x800026dc                Board_getProfileInfo
+ .text.uart_console_putc
+                0x800027ac       0x4c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_stdioInit
+                0x800027f8       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+                0x800027f8                UART_stdioInit
+ .text.UART_dataWrite
+                0x80002878       0x60 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+                0x80002878                UART_dataWrite
+ .text.UART_convertVal.constprop.0
+                0x800028d8      0x168 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_printf
+                0x80002a40      0x2c0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+                0x80002a40                UART_printf
+ .text.UART_init
+                0x80002d00       0x6c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+                0x80002d00                UART_init
+ .text.UART_open
+                0x80002d6c       0x20 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+                0x80002d6c                UART_open
+ .text.UART_Params_init
+                0x80002d8c       0x2c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+                0x80002d8c                UART_Params_init
+ .text.UART_write
+                0x80002db8        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+                0x80002db8                UART_write
+ .text.UART_writePolling
+                0x80002dc4        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+                0x80002dc4                UART_writePolling
+ .text.UART_init_v1
+                0x80002dd0       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_control_v1
+                0x80002de0        0x8 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_v1_callback
+                0x80002de8       0x98 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_open_v1
+                0x80002e80      0x280 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_close_v1
+                0x80003100       0xa0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_writeCancelNoCB.isra.0
+                0x800031a0       0x78 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_writeCancel_v1
+                0x80003218       0x44 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_readCancelNoCB.isra.3
+                0x8000325c       0x7c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_readCancel_v1
+                0x800032d8       0x34 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_charPut_v1.isra.5
+                0x8000330c       0x54 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_writePolling_v1
+                0x80003360       0xc4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_write2_v1
+                0x80003424      0x288 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_write_v1
+                0x800036ac       0x84 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_readPolling_v1
+                0x80003730      0x12c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_v1_hwiIntFxn
+                0x8000385c      0x4c4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_read2_v1
+                0x80003d20      0x278 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_read_v1
+                0x80003f98       0x84 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.I2C_close
+                0x8000401c       0x40 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+                0x8000401c                I2C_close
+ .text.I2C_init
+                0x8000405c       0x6c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+                0x8000405c                I2C_init
+ .text.I2C_open
+                0x800040c8       0x54 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+                0x800040c8                I2C_open
+ .text.I2C_Params_init
+                0x8000411c       0x34 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+                0x8000411c                I2C_Params_init
+ .text.I2C_transfer
+                0x80004150       0x54 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+                0x80004150                I2C_transfer
+ .text.I2C_init_v1
+                0x800041a4       0x38 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2C_transfer_Callback_v1
+                0x800041dc       0x3c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2C_close_v1
+                0x80004218       0x9c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2C_open_v1
+                0x800042b4      0x23c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2C_v1_waitForPin.isra.1
+                0x800044f0       0xcc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2C_primeTransfer_v1
+                0x800045bc      0x520 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2C_v1_complete_curr_transfer
+                0x80004adc       0x8c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2C_v1_hwiFxn
+                0x80004b68      0x55c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2C_v1_resetCtrl
+                0x800050c4      0x14c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2C_v1_recoverBus
+                0x80005210       0xf8 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2C_transfer_v1
+                0x80005308      0x190 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2C_v1_waitForBb.constprop.4
+                0x80005498       0xbc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2C_v1_control
+                0x80005554      0x23c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2CMasterInitExpClk
+                0x80005790       0x94 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005790                I2CMasterInitExpClk
+ .text.I2CMasterEnable
+                0x80005824       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005824                I2CMasterEnable
+ .text.I2CMasterEnableFreeRun
+                0x80005840       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005840                I2CMasterEnableFreeRun
+ .text.I2CMasterSetSysTest
+                0x8000585c        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x8000585c                I2CMasterSetSysTest
+ .text.I2CMasterGetSysTest
+                0x80005868        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005868                I2CMasterGetSysTest
+ .text.I2CMasterDisable
+                0x80005874       0x14 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005874                I2CMasterDisable
+ .text.I2CMasterBusBusy
+                0x80005888       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005888                I2CMasterBusBusy
+ .text.I2CMasterControl
+                0x80005898       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005898                I2CMasterControl
+ .text.I2CMasterStart
+                0x800058a8       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x800058a8                I2CMasterStart
+ .text.I2CMasterStop
+                0x800058c4       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x800058c4                I2CMasterStop
+ .text.I2CSlaveIntEnableEx
+                0x800058e0       0x18 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x800058e0                I2CSlaveIntEnableEx
+ .text.I2CMasterIntEnableEx
+                0x800058f8        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x800058f8                I2CMasterIntEnableEx
+ .text.I2CMasterIntDisableEx
+                0x800058fc        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x800058fc                I2CMasterIntDisableEx
+ .text.I2CSlaveIntDisableEx
+                0x80005908        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005908                I2CSlaveIntDisableEx
+ .text.I2CMasterIntStatus
+                0x80005914        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005914                I2CMasterIntStatus
+ .text.I2CMasterIntRawStatus
+                0x80005920        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005920                I2CMasterIntRawStatus
+ .text.I2CSlaveIntRawStatus
+                0x8000592c        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x8000592c                I2CSlaveIntRawStatus
+ .text.I2CMasterIntRawStatusEx
+                0x80005938       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005938                I2CMasterIntRawStatusEx
+ .text.I2CMasterIntClearEx
+                0x80005948        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005948                I2CMasterIntClearEx
+ .text.I2CSlaveIntClearEx
+                0x80005954        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005954                I2CSlaveIntClearEx
+ .text.I2CGetEnabledIntStatus
+                0x80005960       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005960                I2CGetEnabledIntStatus
+ .text.I2CMasterSlaveAddrSet
+                0x80005970        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005970                I2CMasterSlaveAddrSet
+ .text.I2CSetDataCount
+                0x8000597c        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x8000597c                I2CSetDataCount
+ .text.I2CDataCountGet
+                0x80005988        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005988                I2CDataCountGet
+ .text.I2CFIFOClear
+                0x80005994       0x28 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005994                I2CFIFOClear
+ .text.I2CBufferStatus
+                0x800059bc       0x4c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x800059bc                I2CBufferStatus
+ .text.I2COwnAddressSet
+                0x80005a08       0x4c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005a08                I2COwnAddressSet
+ .text.I2CSoftReset
+                0x80005a54       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005a54                I2CSoftReset
+ .text.I2CAutoIdleDisable
+                0x80005a70       0x14 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005a70                I2CAutoIdleDisable
+ .text.I2CSystemStatusGet
+                0x80005a84       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005a84                I2CSystemStatusGet
+ .text.I2CMasterDataPut
+                0x80005a94        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005a94                I2CMasterDataPut
+ .text.I2CMasterDataGet
+                0x80005aa0       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005aa0                I2CMasterDataGet
+ .text.I2CSlaveDataGet
+                0x80005ab0       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005ab0                I2CSlaveDataGet
+ .text.I2CSyscInit
+                0x80005ac0        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005ac0                I2CSyscInit
+ .text.I2CConfig
+                0x80005acc        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005acc                I2CConfig
+ .text.UARTOperatingModeSelect
+                0x80005ad8       0x28 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80005ad8                UARTOperatingModeSelect
+ .text.UARTDivisorValCompute
+                0x80005b00       0x60 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80005b00                UARTDivisorValCompute
+ .text.UARTDivisorLatchWrite
+                0x80005b60      0x1e4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80005b60                UARTDivisorLatchWrite
+ .text.UARTDivisorLatchDisable
+                0x80005d44       0x14 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80005d44                UARTDivisorLatchDisable
+ .text.UARTBreakCtl
+                0x80005d58       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80005d58                UARTBreakCtl
+ .text.UARTLineCharacConfig
+                0x80005d74       0x28 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80005d74                UARTLineCharacConfig
+ .text.UARTFIFORegisterWrite
+                0x80005d9c       0xbc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80005d9c                UARTFIFORegisterWrite
+ .text.UARTSubConfigTCRTLRModeEn
+                0x80005e58       0xb4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80005e58                UARTSubConfigTCRTLRModeEn
+ .text.UARTTCRTLRBitValRestore
+                0x80005f0c       0xa8 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80005f0c                UARTTCRTLRBitValRestore
+ .text.UARTFIFOConfig
+                0x80005fb4      0x2a0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80005fb4                UARTFIFOConfig
+ .text.UARTIntEnable
+                0x80006254       0xc8 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80006254                UARTIntEnable
+ .text.UARTIntDisable
+                0x8000631c       0xd0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x8000631c                UARTIntDisable
+ .text.UARTInt2Enable
+                0x800063ec       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x800063ec                UARTInt2Enable
+ .text.UARTInt2Disable
+                0x80006408       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80006408                UARTInt2Disable
+ .text.UARTReadStatus
+                0x80006424       0x34 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80006424                UARTReadStatus
+ .text.UARTCharPutNonBlocking
+                0x80006458       0x48 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80006458                UARTCharPutNonBlocking
+ .text.UARTCharGetNonBlocking
+                0x800064a0       0x50 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x800064a0                UARTCharGetNonBlocking
+ .text.UARTCharPut
+                0x800064f0       0x48 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x800064f0                UARTCharPut
+ .text.UARTFIFOCharPut
+                0x80006538        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80006538                UARTFIFOCharPut
+ .text.UARTIntIdentityGet
+                0x80006544       0x34 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80006544                UARTIntIdentityGet
+ .text.UARTInt2StatusGet
+                0x80006578       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80006578                UARTInt2StatusGet
+ .text.UARTLoopbackModeControl
+                0x80006588       0x1c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80006588                UARTLoopbackModeControl
+ .text.UARTTxFIFOFullStatusGet
+                0x800065a4       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x800065a4                UARTTxFIFOFullStatusGet
+ .text.UARTIsTransmitterEmpty
+                0x800065b4       0x40 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x800065b4                UARTIsTransmitterEmpty
+ .text.HwiP_create
+                0x800065f4       0x44 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+                0x800065f4                HwiP_create
+ .text.HwiP_delete
+                0x80006638       0x54 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+                0x80006638                HwiP_delete
+ .text.HwiP_disable
+                0x8000668c        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+                0x8000668c                HwiP_disable
+ .text.HwiP_enableInterrupt
+                0x80006690        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+                0x80006690                HwiP_enableInterrupt
+ .text.HwiP_restore
+                0x80006694        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+                0x80006694                HwiP_restore
+ .text._DebugP_assert
+                0x80006698        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+                0x80006698                _DebugP_assert
+ .text.Osal_getThreadType
+                0x800066a4        0x8 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+                0x800066a4                Osal_getThreadType
+ .text.SemaphoreP_create
+                0x800066ac       0xa0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+                0x800066ac                SemaphoreP_create
+ .text.SemaphoreP_delete
+                0x8000674c       0x58 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+                0x8000674c                SemaphoreP_delete
+ .text.SemaphoreP_Params_init
+                0x800067a4       0x38 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+                0x800067a4                SemaphoreP_Params_init
+ .text.SemaphoreP_pend
+                0x800067dc       0xb4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+                0x800067dc                SemaphoreP_pend
+ .text.SemaphoreP_post
+                0x80006890       0x4c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+                0x80006890                SemaphoreP_post
+ .text.Osal_RegisterInterrupt_initParams
+                0x800068dc       0x40 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(RegisterIntr_nonos.oa8fg)
+                0x800068dc                Osal_RegisterInterrupt_initParams
+ .text.Osal_RegisterInterrupt
+                0x8000691c       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(RegisterIntr_nonos.oa8fg)
+                0x8000691c                Osal_RegisterInterrupt
+ .text.Osal_DeleteInterrupt
+                0x8000699c       0x20 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(RegisterIntr_nonos.oa8fg)
+                0x8000699c                Osal_DeleteInterrupt
+ .text.Osal_EnableInterrupt
+                0x800069bc        0x8 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(RegisterIntr_nonos.oa8fg)
+                0x800069bc                Osal_EnableInterrupt
+ .text.Osal_DisableInterrupt
+                0x800069c4        0x8 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(RegisterIntr_nonos.oa8fg)
+                0x800069c4                Osal_DisableInterrupt
+ .text.OsalArch_ISRStub
+                0x800069cc        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .text.OsalArch_enableInterrupt
+                0x800069d8        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+                0x800069d8                OsalArch_enableInterrupt
+ .text.OsalArch_globalDisableInterrupt
+                0x800069dc        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+                0x800069dc                OsalArch_globalDisableInterrupt
+ .text.OsalArch_globalRestoreInterrupt
+                0x800069e0        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+                0x800069e0                OsalArch_globalRestoreInterrupt
+ .text.OsalArch_HwiPCreate
+                0x800069e4      0x158 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+                0x800069e4                OsalArch_HwiPCreate
+ .text.OsalArch_HwiPDelete
+                0x80006b3c       0x4c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+                0x80006b3c                OsalArch_HwiPDelete
+ .text.Delay_32kFClk
+                0x80006b88       0x74 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(delay.oa8fg)
+                0x80006b88                Delay_32kFClk
+ .text.Osal_delay
+                0x80006bfc       0x20 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(delay.oa8fg)
+                0x80006bfc                Osal_delay
+ .text.TIMEREnable
+                0x80006c1c       0x48 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+                0x80006c1c                TIMEREnable
+ .text.TIMERDisable
+                0x80006c64       0x40 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+                0x80006c64                TIMERDisable
+ .text.TIMERModeConfigure
+                0x80006ca4       0x94 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+                0x80006ca4                TIMERModeConfigure
+ .text.TIMERCounterSet
+                0x80006d38       0x38 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+                0x80006d38                TIMERCounterSet
+ .text.TIMERCounterGet
+                0x80006d70       0x38 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+                0x80006d70                TIMERCounterGet
+ .text.TIMERReloadSet
+                0x80006da8       0x38 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+                0x80006da8                TIMERReloadSet
+ .text          0x80006de0      0x114 e:/uc-soft/ti/tirtos/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/hard\libgcc.a(_udivsi3.o)
+                0x80006de0                __aeabi_uidiv
+                0x80006de0                __udivsi3
+                0x80006ed4                __aeabi_uidivmod
+ .text          0x80006ef4      0x148 e:/uc-soft/ti/tirtos/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/hard\libgcc.a(_divsi3.o)
+                0x80006ef4                __divsi3
+                0x80006ef4                __aeabi_idiv
+                0x8000701c                __aeabi_idivmod
+ .text          0x8000703c        0x4 e:/uc-soft/ti/tirtos/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/hard\libgcc.a(_dvmd_tls.o)
+                0x8000703c                __aeabi_idiv0
+                0x8000703c                __aeabi_ldiv0
+ *(.rodata*)
+ .rodata        0x80007040       0x24 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/rtc_test.o
+ .rodata.str1.4
+                0x80007064      0x145 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/rtc_test.o
+ *fill*         0x800071a9        0x3 
+ .rodata        0x800071ac       0x38 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/diag_common_cfg.o
+ .rodata.gChipDBResourceIDMap
+                0x800071e4      0x244 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb.oa8fg)
+                0x800071e4                gChipDBResourceIDMap
+ .rodata.gChipDBBaseAddrTable
+                0x80007428      0x200 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_baseaddr.oa8fg)
+                0x80007428                gChipDBBaseAddrTable
+ .rodata.UART_convertVal.constprop.0.str1.4
+                0x80007628       0x11 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ *fill*         0x80007639        0x3 
+ .rodata.UART_printf.str1.4
+                0x8000763c        0x6 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+                                  0xa (size before relaxing)
+ *fill*         0x80007642        0x2 
+ .rodata.UART_stdioInit2.str1.4
+                0x80007644        0xa /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ *fill*         0x8000764e        0x2 
+ .rodata.UART_defaultParams
+                0x80007650       0x28 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+                0x80007650                UART_defaultParams
+ .rodata.UART_config
+                0x80007678       0x84 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+                0x80007678                UART_config
+ .rodata.CSWTCH.8
+                0x800076fc       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .rodata.UART_FxnTable_v1
+                0x8000770c       0x30 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+                0x8000770c                UART_FxnTable_v1
+ .rodata.UART_open_v1.str1.4
+                0x8000773c        0xd /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ *fill*         0x80007749        0x3 
+ .rodata.UART_write2_v1.str1.4
+                0x8000774c       0x11 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ *fill*         0x8000775d        0x3 
+ .rodata.I2C_close.str1.4
+                0x80007760        0xe /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+ *fill*         0x8000776e        0x2 
+ .rodata.I2C_config
+                0x80007770       0x48 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+                0x80007770                I2C_config
+ .rodata.I2C_init_v1.str1.4
+                0x800077b8       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .rodata.I2C_v1_FxnTable
+                0x800077c8       0x14 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+                0x800077c8                I2C_v1_FxnTable
+ .rodata.HwiP_delete.str1.4
+                0x800077dc       0x17 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+ *fill*         0x800077f3        0x1 
+ .rodata.SemaphoreP_delete.str1.4
+                0x800077f4       0x20 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+                                 0x1d (size before relaxing)
+
+.glue_7         0x80007814        0x0
+ .glue_7        0x80007814        0x0 linker stubs
+
+.glue_7t        0x80007814        0x0
+ .glue_7t       0x80007814        0x0 linker stubs
+
+.vfp11_veneer   0x80007814        0x0
+ .vfp11_veneer  0x80007814        0x0 linker stubs
+
+.v4_bx          0x80007814        0x0
+ .v4_bx         0x80007814        0x0 linker stubs
+
+.iplt           0x80007814        0x0
+ .iplt          0x80007814        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/rtc_test.o
+
+.rel.dyn        0x80007814        0x0
+ .rel.iplt      0x80007814        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/rtc_test.o
+
+.data           0x80007814      0xd7c
+                0x80007814                . = ALIGN (0x4)
+ *(.data*)
+ .data          0x80007814       0x4c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/rtc_test.o
+                0x80007814                time1Val
+                0x80007828                date1Val
+                0x80007838                clkSrc
+                0x8000783c                timeVal
+                0x80007850                dateVal
+ .data.gCpsw0PinCfg
+                0x80007860       0x98 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gCpswPinCfg
+                0x800078f8       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gDcan1PinCfg
+                0x80007908       0x18 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gDcanPinCfg
+                0x80007920       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gGpevmPinmuxData
+                0x80007930       0x68 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+                0x80007930                gGpevmPinmuxData
+ .data.gGpio0PinCfg
+                0x80007998       0x18 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gGpio1PinCfg
+                0x800079b0       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gGpioPinCfg
+                0x800079c0       0x18 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gGpmc0PinCfg
+                0x800079d8       0xc0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gGpmcPinCfg
+                0x80007a98       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gI2c0PinCfg
+                0x80007aa8       0x18 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gI2c1PinCfg
+                0x80007ac0       0x18 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gI2cPinCfg
+                0x80007ad8       0x18 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gLcdc0PinCfg
+                0x80007af0       0xf0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gLcdcPinCfg
+                0x80007be0       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gMcasp0PinCfg
+                0x80007bf0       0x48 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gMcaspPinCfg
+                0x80007c38       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gMcspi0PinCfg
+                0x80007c48       0x28 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gMcspiPinCfg
+                0x80007c70       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gMmcsd0PinCfg
+                0x80007c80       0x40 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gMmcsdPinCfg
+                0x80007cc0       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gPwmss2PinCfg
+                0x80007cd0       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gPwmssPinCfg
+                0x80007ce0       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gUart0PinCfg
+                0x80007cf0       0x18 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gUartPinCfg
+                0x80007d08       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gUsb0PinCfg
+                0x80007d18       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gUsb1PinCfg
+                0x80007d28       0x10 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.gUsbPinCfg
+                0x80007d38       0x18 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .data.UART_count
+                0x80007d50        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .data.uartInitCfg
+                0x80007d54      0x180 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+                0x80007d54                uartInitCfg
+ .data.I2C_count
+                0x80007ed4        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+ .data.i2cInitCfg
+                0x80007ed8       0x6c /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+                0x80007ed8                i2cInitCfg
+ .data.gOsal_HwAttrs
+                0x80007f44        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+                0x80007f44                gOsal_HwAttrs
+ .data.semStructs
+                0x80007f50      0x640 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+                0x80007f50                semStructs
+
+.igot.plt       0x80008590        0x0
+ .igot.plt      0x80008590        0x0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/rtc_test.o
+
+.bss            0x80008590      0xcd4
+                0x80008590                . = ALIGN (0x4)
+                0x80008590                _bss_start = .
+ *(.bss*)
+ .bss           0x80008590       0x18 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/rtc_test.o
+                0x80008590                timerEvt
+ .bss           0x800085a8      0x408 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/intc.o
+ .bss.gOsalHwiAllocCnt
+                0x800089b0        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+                0x800089b0                gOsalHwiAllocCnt
+ .bss.gOsalHwiPeak
+                0x800089b4        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+                0x800089b4                gOsalHwiPeak
+ .bss.gOsalSemAllocCnt
+                0x800089b8        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+                0x800089b8                gOsalSemAllocCnt
+ .bss.gOsalSemPeak
+                0x800089bc        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+                0x800089bc                gOsalSemPeak
+ .bss.hwiStructs
+                0x800089c0      0x4b0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .bss.hwiUsed   0x80008e70       0x64 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ *(COMMON)
+ COMMON         0x80008ed4        0xc /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/rtc_test.o
+                0x80008ed4                gRtcHandle
+                0x80008ed8                gRtcObj
+ COMMON         0x80008ee0        0x4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x.oa8fg)
+                0x80008ee0                Board_obj
+ COMMON         0x80008ee4        0x8 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+                0x80008ee4                uart_stdio
+ COMMON         0x80008eec      0x2a0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+                0x80008eec                UartObjects
+ COMMON         0x8000918c       0xd8 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+                0x8000918c                I2cObjects
+                0x80009264                _bss_end = .
+
+.heap           0x80009264    0x10000
+                0x80009264                . = ALIGN (0x4)
+                0x80009264                __end__ = .
+                0x80009264                end = __end__
+                0x80009264                __HeapBase = __end__
+ *(.heap*)
+                0x80019264                . = (. + 0x10000)
+ *fill*         0x80009264    0x10000 
+                0x80019264                __HeapLimit = .
+
+.stack          0x80019264     0x1004
+                0x80019268                . = ALIGN (0x8)
+ *fill*         0x80019264        0x4 
+                0x80019268                __StackLimit = .
+ *(.stack*)
+                0x8001a268                . = (. + 0x1000)
+ *fill*         0x80019268     0x1000 
+                0x8001a268                __StackTop = .
+                0x8001a268                _stack = __StackTop
+START GROUP
+LOAD e:/uc-soft/ti/tirtos/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/hard\libc.a
+LOAD e:/uc-soft/ti/tirtos/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/hard\librdimon.a
+LOAD e:/uc-soft/ti/tirtos/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/hard\libm.a
+LOAD e:/uc-soft/ti/tirtos/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/hard\libnosys.a
+LOAD /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg
+LOAD /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg
+LOAD /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg
+LOAD /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg
+LOAD /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg
+END GROUP
+START GROUP
+LOAD e:/uc-soft/ti/tirtos/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/hard\libgcc.a
+LOAD e:/uc-soft/ti/tirtos/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/hard\libc.a
+END GROUP
+OUTPUT(/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/bin/evmAM335x/armv7/rtc_diagExample_evmAM335x_armv7.out elf32-littlearm)
+
+.debug_info     0x00000000     0x3359
+ .debug_info    0x00000000     0x1a2e /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/rtc_test.o
+ .debug_info    0x00001a2e       0xb0 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/diag_entry.ao
+ .debug_info    0x00001ade      0xd85 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/intc.o
+ .debug_info    0x00002863      0x971 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/cpu.o
+ .debug_info    0x000031d4      0x185 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/diag_common_cfg.o
+
+.debug_abbrev   0x00000000      0x98a
+ .debug_abbrev  0x00000000      0x399 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/rtc_test.o
+ .debug_abbrev  0x00000399       0x14 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/diag_entry.ao
+ .debug_abbrev  0x000003ad      0x303 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/intc.o
+ .debug_abbrev  0x000006b0      0x1e6 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/cpu.o
+ .debug_abbrev  0x00000896       0xf4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/diag_common_cfg.o
+
+.debug_loc      0x00000000      0xc82
+ .debug_loc     0x00000000      0xb2b /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/rtc_test.o
+ .debug_loc     0x00000b2b      0x157 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/intc.o
+
+.debug_aranges  0x00000000       0xa8
+ .debug_aranges
+                0x00000000       0x28 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/rtc_test.o
+ .debug_aranges
+                0x00000028       0x20 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/diag_entry.ao
+ .debug_aranges
+                0x00000048       0x20 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/intc.o
+ .debug_aranges
+                0x00000068       0x20 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/cpu.o
+ .debug_aranges
+                0x00000088       0x20 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/diag_common_cfg.o
+
+.debug_ranges   0x00000000      0x410
+ .debug_ranges  0x00000000      0x410 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/rtc_test.o
+
+.debug_line     0x00000000      0xdd7
+ .debug_line    0x00000000      0x666 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/rtc_test.o
+ .debug_line    0x00000666       0xe4 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/diag_entry.ao
+ .debug_line    0x0000074a      0x30a /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/intc.o
+ .debug_line    0x00000a54      0x1e8 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/cpu.o
+ .debug_line    0x00000c3c      0x19b /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/diag_common_cfg.o
+
+.debug_str      0x00000000     0x110f
+ .debug_str     0x00000000      0xdb6 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/rtc_test.o
+                                0xe59 (size before relaxing)
+ .debug_str     0x00000db6      0x1fa /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/intc.o
+                                0x858 (size before relaxing)
+ .debug_str     0x00000fb0       0xb2 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/cpu.o
+                                0x60e (size before relaxing)
+ .debug_str     0x00001062       0xad /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/diag_common_cfg.o
+                                0x249 (size before relaxing)
+
+.comment        0x00000000       0x7f
+ .comment       0x00000000       0x7f /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/rtc_test.o
+                                 0x80 (size before relaxing)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/intc.o
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/cpu.o
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/diag_common_cfg.o
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x.oa8fg)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_lld_init.oa8fg)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_pinmux.oa8fg)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_prcm.oa8fg)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb.oa8fg)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_baseaddr.oa8fg)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_info.oa8fg)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(RegisterIntr_nonos.oa8fg)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(delay.oa8fg)
+ .comment       0x0000007f       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+
+.ARM.attributes
+                0x00000000       0x35
+ .ARM.attributes
+                0x00000000       0x35 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/rtc_test.o
+ .ARM.attributes
+                0x00000035       0x21 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/diag_entry.ao
+ .ARM.attributes
+                0x00000056       0x35 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/intc.o
+ .ARM.attributes
+                0x0000008b       0x35 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/cpu.o
+ .ARM.attributes
+                0x000000c0       0x35 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/diag_common_cfg.o
+ .ARM.attributes
+                0x000000f5       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x.oa8fg)
+ .ARM.attributes
+                0x00000132       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_lld_init.oa8fg)
+ .ARM.attributes
+                0x0000016f       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_pinmux.oa8fg)
+ .ARM.attributes
+                0x000001ac       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .ARM.attributes
+                0x000001e9       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_prcm.oa8fg)
+ .ARM.attributes
+                0x00000226       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb.oa8fg)
+ .ARM.attributes
+                0x00000263       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_baseaddr.oa8fg)
+ .ARM.attributes
+                0x000002a0       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(am335x_gpevm_pinmux_data.oa8fg)
+ .ARM.attributes
+                0x000002dd       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/lib/evmAM335x/a8/release/ti.board.aa8fg(evmAM335x_info.oa8fg)
+ .ARM.attributes
+                0x0000031a       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .ARM.attributes
+                0x00000357       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .ARM.attributes
+                0x00000394       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+ .ARM.attributes
+                0x000003d1       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .ARM.attributes
+                0x0000040e       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+ .ARM.attributes
+                0x0000044b       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+ .ARM.attributes
+                0x00000488       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .ARM.attributes
+                0x000004c5       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .ARM.attributes
+                0x00000502       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .ARM.attributes
+                0x0000053f       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+ .ARM.attributes
+                0x0000057c       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+ .ARM.attributes
+                0x000005b9       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+ .ARM.attributes
+                0x000005f6       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(RegisterIntr_nonos.oa8fg)
+ .ARM.attributes
+                0x00000633       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .ARM.attributes
+                0x00000670       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(delay.oa8fg)
+ .ARM.attributes
+                0x000006ad       0x3d /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .ARM.attributes
+                0x000006ea       0x18 e:/uc-soft/ti/tirtos/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/hard\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000702       0x18 e:/uc-soft/ti/tirtos/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/hard\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000071a       0x18 e:/uc-soft/ti/tirtos/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/hard\libgcc.a(_dvmd_tls.o)
+
+.debug_frame    0x00000000      0x2bc
+ .debug_frame   0x00000000       0x98 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/rtc_test.o
+ .debug_frame   0x00000098      0x100 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/intc.o
+ .debug_frame   0x00000198       0x80 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/cpu.o
+ .debug_frame   0x00000218       0x64 /uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/board/obj/evmAM335x/armv7/diag_common_cfg.o
+ .debug_frame   0x0000027c       0x20 e:/uc-soft/ti/tirtos/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/hard\libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000029c       0x20 e:/uc-soft/ti/tirtos/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/hard\libgcc.a(_divsi3.o)

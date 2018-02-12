@@ -1,0 +1,2 @@
+E:/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/starterware/binary/soc/obj/am335x-evm/a8/release/gcc/sbl_init_boot.o: \
+ armv7a/gcc/sbl_init.S
