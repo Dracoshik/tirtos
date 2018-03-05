@@ -5,7 +5,7 @@ set CG_XML_BIN_INSTALL_PATH=E:/uC-Soft/TI/TIRTOS/cg_xml/bin
 
 call .\processor_sdk_rtos_am335x_4_02_00_09\setupenv.bat 
 
-set BUILD_PROFILE=debug
+set BUILD_PROFILE=debug || release
 
 set BIOS_VERSION=6_52_00_12
 set CGT_PRU_VERSION=2.1.5
