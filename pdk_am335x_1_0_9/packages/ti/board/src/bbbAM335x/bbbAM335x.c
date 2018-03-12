@@ -97,10 +97,6 @@ Board_STATUS Board_moduleClockInit()
     /* MCSPI */
     if(S_PASS == status)
     {
-        status = PRCMModuleEnable(CHIPDB_MOD_ID_MCSPI, 0U, 0U);
-    }
-    if(S_PASS == status)
-    {
         status = PRCMModuleEnable(CHIPDB_MOD_ID_MCSPI, 1U, 0U);
     }
 

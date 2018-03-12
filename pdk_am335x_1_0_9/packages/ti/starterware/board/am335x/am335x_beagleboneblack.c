@@ -263,23 +263,8 @@ const boardDeviceData_t gBoardAm335xBeagleboneblackDevData[] =
         NULL,                               /* pFnSelectDev */
         NULL,                               /* pFnResetDev */
         NULL                                /* pFnPowerOnDev */
-    },
+    }
 #endif /* if defined(BUILDCFG_MOD_GPIO) */
-
-#if defined(BUILDCFG_MOD_MCSPI)
-   { /* CCD_SPI */
-        DEVICE_ID_CCD_SPI,          	    /* devId */
-        0U,                                 /* devInstNum */
-        CHIPDB_MOD_ID_MCSPI,                /* ctrlModId */
-        0U,                                 /* ctrlModInstNum */
-        0U, /* Chip Select */           /* ctrlInfo */
-        CHIPDB_MOD_ID_INVALID,              /* dataModId */
-        INVALID_INST_NUM,                   /* dataModInstNum */
-        NULL,                               /* selectDev */
-        NULL,                               /* resetDev */
-        NULL                                /* powerOnDev */
-   }
-#endif /* if defined(BUILDCFG_MOD_MCSPI) */
 };
 
 /** \brief Strings configured for board revision information in the EEPROM. */

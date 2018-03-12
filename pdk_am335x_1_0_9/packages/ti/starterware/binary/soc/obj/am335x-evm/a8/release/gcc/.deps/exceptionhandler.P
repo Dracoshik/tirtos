@@ -1,2 +1,0 @@
-E:/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/starterware/binary/soc/obj/am335x-evm/a8/release/gcc/exceptionhandler.o: \
- armv7a/gcc/exceptionhandler.S

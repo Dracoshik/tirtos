@@ -123,11 +123,9 @@ typedef enum deviceId
     /**< PRUSS Phy reset */
     DEVICE_ID_MII_MUX                = 0x20U,
     /**< MII_MUX */
-    DEVICE_ID_I2C_ROTARY_SW          = 0x21U,
-    /**< Rotary Switch device ID. */
+	DEVICE_ID_I2C_ROTARY_SW          = 0x21U,
+	/**< Rotary Switch device ID. */
     DEVICE_ID_MAX                    = DEVICE_ID_MII_MUX,
-    /**< CCD_LINE_SPI */
-    DEVICE_ID_CCD_SPI                = 0x22U,
     /** <Maximum no of devices */
     DEVICE_ID_INVALID                = 0xFFFFFFFFU
     /**< Invalid device ID. */

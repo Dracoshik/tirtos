@@ -41,7 +41,7 @@ extern "C" {
 
 /* Board ID information */
 #define BOARD_INFO_CPU_NAME     "AM335x"
-#define BOARD_INFO_BOARD_NAME   "BBBAM335x"
+#define BOARD_INFO_BOARD_NAME   "EVMAM335x"
 
 /* Mmeory Sections */
 #define BOARD_DDR3_START_ADDR           0x80010000

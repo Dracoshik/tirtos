@@ -52,7 +52,7 @@ board_lib:
 	$(MAKE) -C ./ti/board all
 
 BOARD_DIAG_DEPS = csl profiling fatfs gpio i2c mmcsd spi uart osal
-ALL_BOARDS = evmAM335x bbbAM335x
+ALL_BOARDS = myBBB
 board_diag: board_lib $(BOARD_DIAG_DEPS)
 	$(MAKE) -C ./ti/board/diag ALL_BOARDS="$(ALL_BOARDS)"
 

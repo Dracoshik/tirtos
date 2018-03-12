@@ -1,2 +1,0 @@
-E:/uC-Soft/TI/TIRTOS/PDK_AM~1/packages/ti/starterware/binary/soc/obj/am335x-evm/a8/debug/gcc/init.o: \
- armv7a/gcc/init.S

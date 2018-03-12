@@ -1,13 +1,13 @@
 set SDK_INSTALL_PATH=E:\uC-Soft\TI\TIRTOS
 REM TOOLS_INSTALL_PATH = ;
 
-set CG_XML_BIN_INSTALL_PATH=E:/uC-Soft/TI/TIRTOS/cg_xml/bin
+set CG_XML_BIN_INSTALL_PATH=E:\uC-Soft\TI\TIRTOS\cg_xml\bin
 
 call .\processor_sdk_rtos_am335x_4_02_00_09\setupenv.bat 
 
-set BUILD_PROFILE=debug || release
+set BUILD_PROFILE=release
 
-set BIOS_VERSION=6_52_00_12
+set BIOS_VERSION=6_53_02_00
 set CGT_PRU_VERSION=2.1.5
 set EDMA_VERSION=2_12_05_30B
 set NDK_VERSION=2_26_00_08
@@ -31,7 +31,7 @@ set SOC=am335x
 set SOC_FAMILY=AM
 set PARTNO=AM
 
-set UTILS_PATH=E:/uC-Soft/TI/ccsv7/utils/cygwin
+set UTILS_PATH=E:\uC-Soft\TI\ccsv7\utils\cygwin
 
 call .\pdk_am335x_1_0_9\packages\pdksetupenv.bat "E:\uC-Soft\TI\TIRTOS\pdk_am335x_1_0_9\packages"
 
@@ -40,3 +40,5 @@ gmake clean
 REM pause
 
 gmake all
+
+pause

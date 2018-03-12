@@ -87,10 +87,6 @@ Board_STATUS Board_pinmuxConfig (void)
     /* MCSPI */
     if(S_PASS == status)
     {
-        status = PINMUXModuleConfig(CHIPDB_MOD_ID_MCSPI, 0U, NULL);
-    }
-    if(S_PASS == status)
-    {
         status = PINMUXModuleConfig(CHIPDB_MOD_ID_MCSPI, 1U, NULL);
     }
 

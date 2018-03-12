@@ -142,7 +142,7 @@ ifeq ($(BOARD),$(filter $(BOARD),  evmK2G iceK2G))
 endif
 
 # am335x
-ifeq ($(BOARD),$(filter $(BOARD),  evmAM335x icev2AM335x iceAMIC110 skAM335x bbbAM335x myBBB))
+ifeq ($(BOARD),$(filter $(BOARD),  evmAM335x icev2AM335x iceAMIC110 skAM335x bbbAM335x))
  SOC = am335x
 endif
 
