@@ -47,7 +47,7 @@ INCDIR +=   $(PDK_INSTALL_PATH)/ti/starterware/include \
             $(PDK_INSTALL_PATH)/ti/starterware/utils \
             $(PDK_INSTALL_PATH)/ti/starterware/soc
 
-ifeq ($(BOARD),$(filter $(BOARD), evmAM335x icev2AM335x iceAMIC110 skAM335x bbbAM335x))
+ifeq ($(BOARD),$(filter $(BOARD), evmAM335x icev2AM335x iceAMIC110 skAM335x bbbAM335x myBBB))
     SRCDIR +=   $(PDK_INSTALL_PATH)/ti/starterware/board/am335x \
                 $(PDK_INSTALL_PATH)/ti/starterware/soc/am335x \
                 $(PDK_INSTALL_PATH)/ti/starterware/include/am335x
@@ -83,6 +83,10 @@ ifeq ($(BOARD),$(filter $(BOARD), evmAM335x icev2AM335x iceAMIC110 skAM335x bbbA
 
     ifeq ($(BOARD),$(filter $(BOARD), bbbAM335x))
         SRCS_COMMON += am335x_beagleboneblack_pinmux_data.c
+    endif
+
+    ifeq ($(BOARD),$(filter $(BOARD), myBBB))
+        SRCS_COMMON += am335x_mybbb_pinmux_data.c
     endif
 endif
 

@@ -49,37 +49,37 @@ BUILD_OS_TYPE ?= tirtos
 #                   evmAM335x, icev2AM335x, iceAMIC110, skAM335x, bbbAM335x,
 #                   evmAM437x idkAM437x skAM437x evmOMAPL137 lcdkOMAPL138
 #
-BOARD ?= tda2xx-evm
-SOC ?= tda2xx
+BOARD ?= bbbAM335x myBBB
+SOC ?= am335x
 
 #Below applicable only for TDA devices
 mmwavelink_version := mmwave_dfp_00_09_01_05
 
 ifeq ($(OS),Windows_NT)
 #Paths for windows machine
-  TOOLCHAIN_PATH_GCC ?= c:/ti/ccsv5/tools/compiler/gcc-arm-none-eabi-4_9-2015q3
+  TOOLCHAIN_PATH_GCC ?= E:/uC-Soft/TI/TIRTOS/gcc-arm-none-eabi-6-2017-q1-update
   TOOLCHAIN_PATH_TI_CGT ?= c:/ti/ti-cgt-arm_16.9.1.LTS
   C6X_GEN_INSTALL_PATH ?= c:/ti/C6000_7.4.2
   TOOLCHAIN_PATH_EVE ?= c:/ti/arp32_1.0.7
-  PDK_INSTALL_PATH ?= c:/ti/pdk/packages
-  BIOS_INSTALL_PATH ?= c:/ti/bios_6_46_04_53
-  XDC_INSTALL_PATH ?= c:/ti/xdctools_3_32_01_22_core
-  EDMA3LLD_BIOS6_INSTALLDIR ?= c:/ti/edma3_lld_02_12_00_20
+  PDK_INSTALL_PATH ?= E:/uC-Soft/TI/TIRTOS/pdk_am335x_1_0_9/packages
+  BIOS_INSTALL_PATH ?= E:/uC-Soft/TI/TIRTOS/bios_6_53_02_00
+  XDC_INSTALL_PATH ?= E:/uC-Soft/TI/TIRTOS/xdctools_3_50_04_43_core
+  EDMA3LLD_BIOS6_INSTALLDIR ?= E:/uC-Soft/TI/TIRTOS/edma3_lld_2_12_05_30B
   #Required only for TDA RADAR build
   radarLink_PATH := c:/ti/$(mmwavelink_version)
   #Required only for TDA Secure build
   MSHIELD_DK_DIR ?= c:/ti/mshield-dk_std_4_5_3
   #Required only for library size output generation
-  CG_XML_BIN_INSTALL_PATH ?= c:/ti/cg_xml_2_41_00/bin
+  CG_XML_BIN_INSTALL_PATH ?= E:/uC-Soft/TI/TIRTOS/cg_xml/bin
   #Not used for TDA device build
-  CL_PRU_INSTALL_PATH ?= c:/ti/ti-cgt-pru_2.1.4
-  NDK_INSTALL_PATH ?=  c:/ti/ndk_2_24_03_35
+  CL_PRU_INSTALL_PATH ?= E:/uC-Soft/TI/TIRTOS/ti-cgt-pru_2.1.5
+  NDK_INSTALL_PATH ?=  E:/uC-Soft/TI/TIRTOS/ndk_2_26_00_08
 # Utilities directory. This is required only if the build machine is Windows.
 #   - specify the installation directory of utility which supports POSIX commands
 #     (eg: Cygwin installation or MSYS installation).
 # This could be in CCS install directory as in c:/ti/ccsv7/utils/cygwin or
 # the XDC install bin folder $(XDC_INSTALL_PATH)/bin
-  utils_PATH ?= c:/ti/ccsv7/utils/cygwin
+  utils_PATH ?= E:/uC-Soft/TI/ccsv7/utils/cygwin
   export utils_PATH
 else
 #Paths for linux machine

@@ -140,6 +140,10 @@ ifeq ($(PLATFORM),am335x-evm)
  IMG_LOAD_ADDR = 0x402F0400
 endif #($(PLATFORM),am335x-evm)
 
+ifeq ($(PLATFORM),myBBB)
+ IMG_LOAD_ADDR = 0x402F0400
+endif #($(PLATFORM),myBBB)
+
 ifeq ($(PLATFORM),amic110-ddrless)
  IMG_LOAD_ADDR = 0x402F0400
 endif #($(PLATFORM),amic110-ddrless)

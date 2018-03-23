@@ -76,6 +76,10 @@ ifeq ($(BOARD), bbbAM335x)
 export DEVICE=AM335x
 endif
 
+ifeq ($(BOARD), myBBB)
+export DEVICE=AM335x
+endif
+
 ifeq ($(BOARD), icev2AM335x)
 export DEVICE=AM335x
 endif

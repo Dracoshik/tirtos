@@ -76,7 +76,7 @@ else
 export SPISCRIPT=./create_spi.sh
 endif
 
-ALL_BOARDS = idkAM571x idkAM572x idkAM574x evmAM572x evmK2G iceK2G evmAM335x evmAM437x idkAM437x skAM437x bbbAM335x icev2AM335x skAM335x evmOMAPL137 iceAMIC110
+ALL_BOARDS = idkAM571x idkAM572x idkAM574x evmAM572x evmK2G iceK2G evmAM335x evmAM437x idkAM437x skAM437x bbbAM335x myBBB icev2AM335x skAM335x evmOMAPL137 iceAMIC110
 
 idkAM571x_DIAG = dcan eeprom emmc framework framework_loader gmac haptics icss_emac lcd_touchscreen led led_industrial mcspi mem mmcsd pmic qspi timer uart
 idkAM572x_DIAG = dcan eeprom emmc framework framework_loader gmac haptics icss_emac lcd_touchscreen led led_industrial mcspi mem mmcsd pmic qspi uart
@@ -90,6 +90,7 @@ evmAM335x_DIAG = framework framework_loader mem uart mmcsd buzzer accelerometer 
 idkAM437x_DIAG = framework framework_loader led qspi mem mmcsd uart eeprom mcspi pwm rtc
 skAM437x_DIAG = framework framework_loader eeprom led uart mmcsd mem accelerometer rtc pmic adc button
 bbbAM335x_DIAG = framework framework_loader eeprom uart mmcsd mem led rtc pmic
+myBBB_DIAG     = framework framework_loader eeprom uart mmcsd mem led rtc pmic
 icev2AM335x_DIAG = framework framework_loader eeprom uart mmcsd mem led rtc pmic
 skAM335x_DIAG = framework framework_loader eeprom uart mmcsd mem led accelerometer rtc pmic adc button
 evmOMAPL137_DIAG = mcasp mcasp_audiodc

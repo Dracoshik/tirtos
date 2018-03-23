@@ -46,6 +46,7 @@ CLEANALL_EXAMPLES = $(addsuffix _clean, $(starterware_EXAMPLES_LIST))
 
 .PHONY : all
 all: version libs examples kw_check
+#all: version libs kw_check
 
 .PHONY : libs
 libs: $(starterware_PKG_LIST_ALL)
@@ -55,6 +56,7 @@ examples: $(starterware_EXAMPLES_LIST)
 
 .PHONY : clean libs_clean examples_clean
 clean: libs_clean examples_clean kw_invoke
+#clean: libs_clean kw_invoke
 libs_clean: $(CLEANALL_TARGETS)
 examples_clean: $(CLEANALL_EXAMPLES)
 

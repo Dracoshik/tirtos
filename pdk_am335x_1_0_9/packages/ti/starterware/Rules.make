@@ -81,7 +81,7 @@ endif
 # Default platform
 # Supported values: am335x-evm, am43xx-evm
 ifeq ($(PLATFORM), )
-  PLATFORM := am43xx-evm
+  PLATFORM := am335x-evm
 endif
 
 # Default core

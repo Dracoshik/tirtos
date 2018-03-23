@@ -158,7 +158,7 @@ LIBDIR ?= ./lib
 export LIBDIR
 
 export LIMIT_SOCS ?= am335x
-export LIMIT_BOARDS ?= evmAM335x bbbAM335x
+export LIMIT_BOARDS ?= bbbAM335x myBBB
 
 export CGTOOLS=$(C6X_GEN_INSTALL_PATH)
 
@@ -178,7 +178,7 @@ export XDCPATH := ../../..;$(XDC_INSTALL_PATH)/packages;$(PDK_INSTALL_PATH);$(ED
 export PATH := $(PATH):$(C6X_GEN_INSTALL_PATH)/bin
 
 # XDC Tools location:
-export PATH := $(PATH):$(XDC_INSTALL_PATH):$(XDC_INSTALL_PATH)\bin:$(XDC_INSTALL_PATH)/packages/xdc/services/io/release
+export PATH := $(PATH):$(XDC_INSTALL_PATH):$(XDC_INSTALL_PATH)/bin:$(XDC_INSTALL_PATH)/packages/xdc/services/io/release
 
 .PHONY: .env
 .env:

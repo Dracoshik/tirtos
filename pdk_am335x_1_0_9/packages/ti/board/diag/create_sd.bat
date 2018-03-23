@@ -47,6 +47,11 @@ echo Done! create_sd script not needed for %board%
 goto :end
 )
 
+IF "%board%" == "myBBB" (
+echo Done! create_sd script not needed for %board%
+goto :end
+)
+
 IF "%board%" == "icev2AM335x" (
 echo Done! create_sd script not needed for %board%
 goto :end

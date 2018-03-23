@@ -262,7 +262,7 @@ if not defined SOC_FAMILY set SOC_FAMILY=AM
 
 @REM Platforms supported by the PDK
 if not defined LIMIT_SOCS set LIMIT_SOCS=am335x
-if not defined LIMIT_BOARDS set LIMIT_BOARDS=evmAM335x bbbAM335x
+if not defined LIMIT_BOARDS set LIMIT_BOARDS=myBBB
 
 set CGTOOLS=%C6X_GEN_INSTALL_PATH%
 

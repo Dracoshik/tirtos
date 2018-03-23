@@ -67,6 +67,7 @@ Pkg.otherFiles[Pkg.otherFiles.length++] = "src/src_files_lld.mk";
 Pkg.otherFiles[Pkg.otherFiles.length++] = "src/evmKeystone/src_files_evmKeystone.mk";
 Pkg.otherFiles[Pkg.otherFiles.length++] = "src/src_files_starterware.mk";
 Pkg.otherFiles[Pkg.otherFiles.length++] = "src/bbbAM335x/src_files_bbbAM335x.mk";
+Pkg.otherFiles[Pkg.otherFiles.length++] = "src/myBBB/src_files_myBBB.mk";
 Pkg.otherFiles[Pkg.otherFiles.length++] = "src/flash/src_files_flash.mk";
 
 var tplt = xdc.loadTemplate("./Settings.xdc.xdt");

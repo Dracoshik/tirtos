@@ -94,6 +94,11 @@
         <file name="src/bbbAM335x/bbbAM335x_lld_init.c"/>
         <file name="src/bbbAM335x/bbbAM335x_pinmux.c"/>
         <file name="src/bbbAM335x/bbbAM335x_info.c"/>
+        <file name="src/myBBB/device/enet_phy.c"/>
+        <file name="src/myBBB/myBBB.c"/>
+        <file name="src/myBBB/myBBB_lld_init.c"/>
+        <file name="src/myBBB/myBBB_pinmux.c"/>
+        <file name="src/myBBB/myBBB_info.c"/>
         <file name="src/evmDRA75x/evmDRA75x.c"/>
         <file name="src/evmK2L/evmK2L_pll.c"/>
         <file name="src/evmK2L/evmK2L_ddr.c"/>
@@ -265,6 +270,9 @@
         <file name="src/bbbAM335x/device/enet_phy.h"/>
         <file name="src/bbbAM335x/include/board_cfg.h"/>
         <file name="src/bbbAM335x/include/board_internal.h"/>
+        <file name="src/myBBB/device/enet_phy.h"/>
+        <file name="src/myBBB/include/board_cfg.h"/>
+        <file name="src/myBBB/include/board_internal.h"/>
         <file name="src/evmDRA75x/include/board_cfg.h"/>
         <file name="src/evmK2L/include/board_pll.h"/>
         <file name="src/evmK2L/include/board_cfg.h"/>
@@ -369,6 +377,7 @@
         <file name="src/idkAM437x/src_files_idkAM437x.mk"/>
         <file name="src/idkAM571x/src_files_idkAM571x.mk"/>
         <file name="src/bbbAM335x/src_files_bbbAM335x.mk"/>
+        <file name="src/myBBB/src_files_myBBB.mk"/>
         <file name="src/evmK2L/src_files_evmK2L.mk"/>
         <file name="src/evmC6657/src_files_evmC6657.mk"/>
         <file name="src/skAM437x/src_files_skAM437x.mk"/>
@@ -441,6 +450,7 @@
         <file name="./diag/framework_loader/build/idkAM437x/armv7/makefile"/>
         <file name="./diag/framework_loader/build/idkAM571x/armv7/makefile"/>
         <file name="./diag/framework_loader/build/bbbAM335x/armv7/makefile"/>
+        <file name="./diag/framework_loader/build/myBBB/armv7/makefile"/>
         <file name="./diag/framework_loader/build/skAM437x/armv7/makefile"/>
         <file name="./diag/framework_loader/build/idkAM572x/armv7/makefile"/>
         <file name="./diag/framework_loader/build/iceAMIC110/armv7/makefile"/>
@@ -460,6 +470,7 @@
         <file name="./diag/framework/build/idkAM437x/armv7/makefile"/>
         <file name="./diag/framework/build/idkAM571x/armv7/makefile"/>
         <file name="./diag/framework/build/bbbAM335x/armv7/makefile"/>
+        <file name="./diag/framework/build/myBBB/armv7/makefile"/>
         <file name="./diag/framework/build/skAM437x/armv7/makefile"/>
         <file name="./diag/framework/build/idkAM572x/armv7/makefile"/>
         <file name="./diag/framework/build/iceAMIC110/armv7/makefile"/>
@@ -476,6 +487,7 @@
         <file name="./diag/eeprom/build/idkAM437x/armv7/makefile"/>
         <file name="./diag/eeprom/build/idkAM571x/armv7/makefile"/>
         <file name="./diag/eeprom/build/bbbAM335x/armv7/makefile"/>
+        <file name="./diag/eeprom/build/myBBB/armv7/makefile"/>
         <file name="./diag/eeprom/build/skAM437x/armv7/makefile"/>
         <file name="./diag/eeprom/build/idkAM572x/armv7/makefile"/>
         <file name="./diag/eeprom/build/evmAM571x/armv7/makefile"/>
@@ -542,6 +554,7 @@
         <file name="./diag/uart/build/idkAM437x/armv7/makefile"/>
         <file name="./diag/uart/build/idkAM571x/armv7/makefile"/>
         <file name="./diag/uart/build/bbbAM335x/armv7/makefile"/>
+        <file name="./diag/uart/build/myBBB/armv7/makefile"/>
         <file name="./diag/uart/build/skAM437x/armv7/makefile"/>
         <file name="./diag/uart/build/idkAM572x/armv7/makefile"/>
         <file name="./diag/uart/build/evmAM571x/armv7/makefile"/>
@@ -631,6 +644,7 @@
         <file name="./diag/rtc/build/icev2AM335x/armv7/makefile"/>
         <file name="./diag/rtc/build/idkAM437x/armv7/makefile"/>
         <file name="./diag/rtc/build/bbbAM335x/armv7/makefile"/>
+        <file name="./diag/rtc/build/myBBB/armv7/makefile"/>
         <file name="./diag/rtc/build/skAM437x/armv7/makefile"/>
         <file name="./diag/rtc/build/skAM335x/armv7/makefile"/>
         <file name="./diag/rtc/build/evmAM437x/armv7/makefile"/>
@@ -668,6 +682,8 @@
         <file name="./diag/led/build/idkAM571x/GPIO_LED_config.c"/>
         <file name="./diag/led/build/bbbAM335x/armv7/makefile"/>
         <file name="./diag/led/build/bbbAM335x/GPIO_LED_config.c"/>
+        <file name="./diag/led/build/myBBB/armv7/makefile"/>
+        <file name="./diag/led/build/myBBB/GPIO_LED_config.c"/>
         <file name="./diag/led/build/skAM437x/armv7/makefile"/>
         <file name="./diag/led/build/skAM437x/GPIO_LED_config.c"/>
         <file name="./diag/led/build/idkAM572x/armv7/makefile"/>
@@ -744,6 +760,7 @@
         <file name="./diag/mem/build/idkAM437x/armv7/makefile"/>
         <file name="./diag/mem/build/idkAM571x/armv7/makefile"/>
         <file name="./diag/mem/build/bbbAM335x/armv7/makefile"/>
+        <file name="./diag/mem/build/myBBB/armv7/makefile"/>
         <file name="./diag/mem/build/skAM437x/armv7/makefile"/>
         <file name="./diag/mem/build/idkAM572x/armv7/makefile"/>
         <file name="./diag/mem/build/evmAM571x/armv7/makefile"/>
@@ -809,6 +826,7 @@
         <file name="./diag/mmcsd/build/idkAM437x/armv7/makefile"/>
         <file name="./diag/mmcsd/build/idkAM571x/armv7/makefile"/>
         <file name="./diag/mmcsd/build/bbbAM335x/armv7/makefile"/>
+        <file name="./diag/mmcsd/build/myBBB/armv7/makefile"/>
         <file name="./diag/mmcsd/build/skAM437x/armv7/makefile"/>
         <file name="./diag/mmcsd/build/idkAM572x/armv7/makefile"/>
         <file name="./diag/mmcsd/build/skAM335x/armv7/makefile"/>
@@ -833,6 +851,7 @@
         <file name="./diag/pmic/build/icev2AM335x/armv7/makefile"/>
         <file name="./diag/pmic/build/idkAM571x/armv7/makefile"/>
         <file name="./diag/pmic/build/bbbAM335x/armv7/makefile"/>
+        <file name="./diag/pmic/build/myBBB/armv7/makefile"/>
         <file name="./diag/pmic/build/skAM437x/armv7/makefile"/>
         <file name="./diag/pmic/build/idkAM572x/armv7/makefile"/>
         <file name="./diag/pmic/build/evmAM571x/armv7/makefile"/>
@@ -964,6 +983,15 @@
         <file name="./src/bbbAM335x/bbbAM335x_lld_init.c"/>
         <file name="./src/bbbAM335x/bbbAM335x_pinmux.c"/>
         <file name="./src/bbbAM335x/bbbAM335x_info.c"/>
+        <file name="./src/myBBB/device/enet_phy.c"/>
+        <file name="./src/myBBB/device/enet_phy.h"/>
+        <file name="./src/myBBB/include/board_cfg.h"/>
+        <file name="./src/myBBB/include/board_internal.h"/>
+        <file name="./src/myBBB/myBBB.c"/>
+        <file name="./src/myBBB/src_files_myBBB.mk"/>
+        <file name="./src/myBBB/myBBB_lld_init.c"/>
+        <file name="./src/myBBB/myBBB_pinmux.c"/>
+        <file name="./src/myBBB/myBBB_info.c"/>
         <file name="./src/evmDRA75x/evmDRA75x.c"/>
         <file name="./src/evmDRA75x/include/board_cfg.h"/>
         <file name="./src/evmK2L/include/board_pll.h"/>
@@ -1225,6 +1253,7 @@
         <file name="./board.h"/>
         <file name="./lib/icev2AM335x/a8/release/ti.board.aa8fg"/>
         <file name="./lib/bbbAM335x/a8/release/ti.board.aa8fg"/>
+        <file name="./lib/myBBB/a8/release/ti.board.aa8fg"/>
         <file name="./lib/iceAMIC110/a8/release/ti.board.aa8fg"/>
         <file name="./lib/skAM335x/a8/release/ti.board.aa8fg"/>
         <file name="./lib/evmAM335x/a8/release/ti.board.aa8fg"/>

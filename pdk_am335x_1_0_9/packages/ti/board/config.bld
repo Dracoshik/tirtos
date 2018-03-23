@@ -215,6 +215,19 @@ var bbbAM335x = {
             "$(PDK_INSTALL_PATH)/ti/starterware/soc/am335x/hw_am335x_chipdb_baseaddr.c",
             "$(PDK_INSTALL_PATH)/ti/starterware/soc/am335x/hw_am335x_chipdb_interrupt.c"]
 }
+var myBBB = {
+    name: "myBBB",
+    ccOpts: "-DmyBBB -DSOC_AM335X -DAM335X_FAMILY_BUILD -Dam335x -DBUILDCFG_MOD_UART -DBUILDCFG_MOD_GPIO  -DBUILDCFG_MOD_I2C  -DBUILDCFG_MOD_MCSPI  -DBUILDCFG_MOD_QSPI -DBUILDCFG_MOD_PRU_ETH -DBUILDCFG_MOD_MMCSD -DBUILDCFG_MOD_CPSW -DBUILDCFG_MOD_PWMSS -DBUILDCFG_MOD_DSS -DBUILDCFG_MOD_USB -DBUILDCFG_MOD_GPMC -DBUILDCFG_MOD_DCAN -DBUILDCFG_MOD_MCASP -DBUILDCFG_MOD_VPFE -DBUILDCFG_MOD_MDIO -DBUILDCFG_MOD_DMTIMER -DBUILDCFG_MOD_EDMA3CC -DBUILDCFG_MOD_EDMA3TC -DBUILDCFG_MOD_RTC -DBUILDCFG_MOD_WDT -DBUILDCFG_MOD_ADC -DBUILDCFG_MOD_LCDC -DBUILDCFG_MOD_PRU_ICSS",
+    targets: [A8LE],
+    incOpts: [ "-I$(PDK_INSTALL_PATH)/ti/starterware/include -I$(PDK_INSTALL_PATH)/ti/starterware/soc/am335x -I$(PDK_INSTALL_PATH)/ti/starterware/board -I$(PDK_INSTALL_PATH)/ti/starterware/board/am335x -I$(PDK_INSTALL_PATH)/ti/starterware/include/am335x -I$(PDK_INSTALL_PATH)/ti/starterware/device -I$(PDK_INSTALL_PATH)/ti/starterware/include/utils -I$(PDK_INSTALL_PATH)/ti/starterware/include/hw -I$(PDK_INSTALL_PATH)/ti/starterware/soc"],
+    stwFiles: ["$(PDK_INSTALL_PATH)/ti/starterware/board/am335x/am335x_mybbb_pinmux_data.c",
+            "$(PDK_INSTALL_PATH)/ti/starterware/soc/am335x/am335x_control.c",
+            "$(PDK_INSTALL_PATH)/ti/starterware/soc/am335x/am335x_chipdb.c",
+            "$(PDK_INSTALL_PATH)/ti/starterware/soc/am335x/am335x_prcm.c",
+            "$(PDK_INSTALL_PATH)/ti/starterware/soc/am335x/hw_am335x_chipdb.c",
+            "$(PDK_INSTALL_PATH)/ti/starterware/soc/am335x/hw_am335x_chipdb_baseaddr.c",
+            "$(PDK_INSTALL_PATH)/ti/starterware/soc/am335x/hw_am335x_chipdb_interrupt.c"]
+}
 var evmAM437x = {
     name: "evmAM437x",
     ccOpts: "-DevmAM437x -DSOC_AM437X -DAM43XX_FAMILY_BUILD -Dam437x -DBUILDCFG_MOD_UART -DBUILDCFG_MOD_GPIO  -DBUILDCFG_MOD_I2C  -DBUILDCFG_MOD_MCSPI -DBUILDCFG_MOD_QSPI -DBUILDCFG_MOD_PRU_ETH -DBUILDCFG_MOD_MMCSD  -DBUILDCFG_MOD_CPSW -DBUILDCFG_MOD_PWMSS -DBUILDCFG_MOD_DSS -DBUILDCFG_MOD_USB -DBUILDCFG_MOD_GPMC -DBUILDCFG_MOD_DCAN -DBUILDCFG_MOD_MCASP -DBUILDCFG_MOD_VPFE -DBUILDCFG_MOD_MDIO -DBUILDCFG_MOD_DMTIMER -DBUILDCFG_MOD_EDMA3CC -DBUILDCFG_MOD_EDMA3TC -DBUILDCFG_MOD_RTC -DBUILDCFG_MOD_WDT -DBUILDCFG_MOD_ADC",
@@ -350,5 +363,5 @@ var evmC6657 = {
 
 /* List all the build targets here. */
 Build.targets = [ C66LE, C66BE, A15LE, M4LE, A9LE, A8LE, ARM9LE, C674LE ];
-var boards = [ evmAM335x, icev2AM335x, skAM335x, bbbAM335x, evmAM437x, idkAM437x, skAM437x, evmAM572x, idkAM571x, idkAM572x, evmK2H, evmK2K, evmK2E, evmK2L, evmK2G, evmC6678, evmC6657, evmOMAPL137 idkAM574x ];
+var boards = [ evmAM335x, icev2AM335x, skAM335x, bbbAM335x, myBBB, evmAM437x, idkAM437x, skAM437x, evmAM572x, idkAM571x, idkAM572x, evmK2H, evmK2K, evmK2E, evmK2L, evmK2G, evmC6678, evmC6657, evmOMAPL137 idkAM574x ];
 

@@ -53,6 +53,9 @@ extern "C" {
 #elif defined (bbbAM335x)
 #include <ti/board/src/bbbAM335x/include/board_cfg.h>
 
+#elif defined (myBBB)
+#include <ti/board/src/myBBB/include/board_cfg.h>
+
 #elif defined (idkAM437x)
 #include <ti/board/src/idkAM437x/include/board_cfg.h>
 
